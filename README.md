@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pottabattini Sushilkumar Shrinivas  
+# Hi 👋, I'm Pottabattini Sushilkumar
 
 🎓 B.Tech CSE Student | 💡 Passionate about AI & Data Science | 🚀 Finalist at SIH 2024  
 📍 From Surat, India  
