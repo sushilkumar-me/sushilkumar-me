@@ -10,13 +10,13 @@
 - 🌱 I’m learning **Python, Data Science, AI/ML, DSA, and Development**  
 - 👯 I’m looking to collaborate on **AI/ML & Data Science Projects**   
 - 💬 Ask me about **Python, Pandas, NumPy, ML, Data Science, DSA**  
-- 📫 How to reach me: **[thesushilkumar17@gmail.com](mailto:sushilkumarshrini@gmail.com)**  
+- 📫 How to reach me: **[thesushilkumar17@gmail.com](mailto:thesushilkumar17@gmail.com)**  
 - ⚡ Fun fact: I love experimenting with **new AI tools & building real-life projects**  
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil-kumar17/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sushilkumar-me)  
 
 ---
