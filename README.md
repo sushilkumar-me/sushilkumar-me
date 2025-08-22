@@ -8,10 +8,9 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **AI & Data Science Projects**  
 - 🌱 I’m learning **Python, Data Science, AI/ML, DSA, and Development**  
-- 👯 I’m looking to collaborate on **AI/ML & Data Science Projects**  
-- 📚 Preparing for **GSoC & Data Science Internships (2026)**  
+- 👯 I’m looking to collaborate on **AI/ML & Data Science Projects**   
 - 💬 Ask me about **Python, Pandas, NumPy, ML, Data Science, DSA**  
-- 📫 How to reach me: **[sushilkumarshrini@gmail.com](mailto:sushilkumarshrini@gmail.com)**  
+- 📫 How to reach me: **[thesushilkumar17@gmail.com](mailto:sushilkumarshrini@gmail.com)**  
 - ⚡ Fun fact: I love experimenting with **new AI tools & building real-life projects**  
 
 ---
