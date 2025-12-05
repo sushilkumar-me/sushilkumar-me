@@ -34,9 +34,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=sushilkumar-me&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushilkumar-me&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilkumar-me&layout=compact&theme=tokyonight)  
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=sushilkumar-me)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sushilkumar-me&show_icons=true&theme=radical&hide_border=true)](https://github.com/sushilkumar-me)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushilkumar-me&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sushilkumar-me)
 
 ---
 
