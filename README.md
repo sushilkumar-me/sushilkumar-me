@@ -6,12 +6,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **AI & Data Science Projects**  
-- 🌱 I’m learning **Python, Data Science, AI/ML, DSA, and Development**  
+- 🔭 I’m currently working on **AI & Data Science Projects**
+- 🌱 I’m learning **Python, Data Science, AI/ML, DSA, and Development** from **[[Udemy](https://github.com/sushilkumar-me/DS_Udemy)**
+- 👨‍💻 All of my projects are available at **[https://github.com/sushilkumar-me?tab=repositories](https://github.com/sushilkumar-me?tab=repositories)**  
 - 👯 I’m looking to collaborate on **AI/ML & Data Science Projects**   
 - 💬 Ask me about **Python, Pandas, NumPy, ML, Data Science, DSA**  
 - 📫 How to reach me: **[thesushilkumar17@gmail.com](mailto:thesushilkumar17@gmail.com)**  
-- ⚡ Fun fact: I love experimenting with **new AI tools & building real-life projects**  
 
 ---
 
