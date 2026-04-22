@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pottabattini Sushilkumar
+# Hi 👋, I'm Sushil kumar
 
 🎓 B.Tech CSE Student | 🚀 Finalist at SIH 2024 |💡 Passionate about AI & Data Science
 📍 From Surat, India  
