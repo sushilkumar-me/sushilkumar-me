@@ -133,15 +133,6 @@ Business intelligence dashboard built using Power BI for sales performance analy
 
 </p>
 
----
-
-# 💻 LeetCode Statistics
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/sushilkumar1702?theme=dark&font=Karma&ext=contest"/>
-
-</p>
 
 ---
 
