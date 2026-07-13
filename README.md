@@ -40,7 +40,7 @@ B.Tech CSE Student | Python Developer | AI & Data Science Enthusiast
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com//](https://leetcode.com/u/sushilkumar1702/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
