@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushil Kumar</h1>
 
 <h3 align="center">
-B.Tech Computer Science Student | Python Developer | AI & Data Science Enthusiast
+B.Tech Computer Science Student | Backend Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
